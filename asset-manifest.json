@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Calculator-Modified-for-Weightlifting/static/css/main.99bc04d5.css",
+    "main.css": "/Calculator-Modified-for-Weightlifting/static/css/main.82592b03.css",
     "main.js": "/Calculator-Modified-for-Weightlifting/static/js/main.31fe2538.js",
     "static/js/787.28cb0dcd.chunk.js": "/Calculator-Modified-for-Weightlifting/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Calculator-Modified-for-Weightlifting/index.html",
-    "main.99bc04d5.css.map": "/Calculator-Modified-for-Weightlifting/static/css/main.99bc04d5.css.map",
+    "main.82592b03.css.map": "/Calculator-Modified-for-Weightlifting/static/css/main.82592b03.css.map",
     "main.31fe2538.js.map": "/Calculator-Modified-for-Weightlifting/static/js/main.31fe2538.js.map",
     "787.28cb0dcd.chunk.js.map": "/Calculator-Modified-for-Weightlifting/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99bc04d5.css",
+    "static/css/main.82592b03.css",
     "static/js/main.31fe2538.js"
   ]
 }
