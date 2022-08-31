@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/victorktkang/Calculator-Modified-for-Weightlifting.git/static/css/main.a64e57e3.css",
+    "main.js": "/victorktkang/Calculator-Modified-for-Weightlifting.git/static/js/main.d2a4f1cf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/victorktkang/Calculator-Modified-for-Weightlifting.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/victorktkang/Calculator-Modified-for-Weightlifting.git/index.html",
+    "main.a64e57e3.css.map": "/victorktkang/Calculator-Modified-for-Weightlifting.git/static/css/main.a64e57e3.css.map",
+    "main.d2a4f1cf.js.map": "/victorktkang/Calculator-Modified-for-Weightlifting.git/static/js/main.d2a4f1cf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/victorktkang/Calculator-Modified-for-Weightlifting.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64e57e3.css",
+    "static/js/main.d2a4f1cf.js"
+  ]
+}
